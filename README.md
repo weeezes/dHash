@@ -1,5 +1,7 @@
 # dHash
-Algorith for comparing the difference between two images, written in Haskell
+Algorith for comparing the difference between two images, written in Haskell.
+
+Based on this article: http://www.hackerfactor.com/blog/index.php?/archives/2013/01/21.html
 
 # Dependencies
 
